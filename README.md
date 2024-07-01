@@ -1,7 +1,10 @@
-repository-name
-# Repository Name
+audiopen
+# AudioPen
 
-Based on "ABC" at https://www.abc.com/
+> Create meeting notes, memos, emails, articles and more.
+> All you have to do is talk.
+
+Based on "AudioPen" at https://audiopen.ai
 
 ## 100 - Introduction
 
